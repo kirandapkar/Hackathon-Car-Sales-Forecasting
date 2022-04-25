@@ -9,4 +9,4 @@ The main objective of the problem is to develop the machine learning approach to
 
 Approach:
 
-The data given had no features except date and hour. It was a pure time series problem. There were missing values inbetween as well i.e., dates and hours where the demand was not given. I used ARIMA to forecast.
+The data given had no features except date and hour. It was a pure time series problem. There were missing values in between as well i.e., dates and hours where the demand was not given. I used ARIMA to forecast.
